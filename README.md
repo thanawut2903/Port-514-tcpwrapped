@@ -1,8 +1,9 @@
 # Port-514-tcpwrapped
 
-![image](https://github.com/thanawut2903/Port-514-tcpwrapped/assets/159118913/52ccff71-706a-4844-a148-626790310dd8)
-
 1.nmap -sV (target ip)
+
+![image](https://github.com/thanawut2903/Port-514-tcpwrapped/assets/159118913/cdcadc97-05b8-410e-bbc2-98bd6e5090a9)
+
 
 2.msfconsole 
 
